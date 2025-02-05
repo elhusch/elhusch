@@ -14,8 +14,11 @@ With expertise in a variety of web development technologies and digital marketin
 
 💻 Full Stack Development: I can develop both front-end and back-end systems from the ground up, managing all aspects of application architecture.
 Front-End Development: From crafting engaging user interfaces with React to creating responsive, mobile-friendly designs with HTML and CSS, I ensure an excellent user experience.
+
 🔒 Back-End Development: I’m skilled in designing and managing back-end systems, using Node, Express, and PostgreSQL to create scalable and efficient server-side solutions.
+
 🔧 Object-Oriented Programming (OOP) and DOM Manipulation: I employ OOP principles for clean, reusable code, and I’m adept at manipulating the Document Object Model (DOM) to create dynamic websites.
+
 Digital Marketing & Design:
 📲 I also bring a strong background in digital marketing, including SEO/SEM, email marketing, and running paid ads. I am experienced in analyzing data through Google Analytics and other tools, and I utilize this insight to drive informed decision-making and optimize marketing strategies. Additionally, I have experience using tools like Omeda, Asana, and Falcon to streamline operations and enhance collaboration across teams. My Adobe Creative Suite expertise allows me to create engaging visuals for web and social media content, supporting effective branding and marketing campaigns.
 
