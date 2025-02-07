@@ -13,7 +13,8 @@ With expertise in a variety of web development technologies and digital marketin
 ➡️ Development Competencies:
 
 💻 Full Stack Development: I can develop both front-end and back-end systems from the ground up, managing all aspects of application architecture.
-Front-End Development: From crafting engaging user interfaces with React to creating responsive, mobile-friendly designs with HTML and CSS, I ensure an excellent user experience.
+
+💭 Front-End Development: From crafting engaging user interfaces with React to creating responsive, mobile-friendly designs with HTML and CSS, I ensure an excellent user experience.
 
 🔒 Back-End Development: I’m skilled in designing and managing back-end systems, using Node, Express, and PostgreSQL to create scalable and efficient server-side solutions.
 
